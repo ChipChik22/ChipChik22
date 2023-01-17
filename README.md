@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChipChik22
+- 👋 Hi, I’m Egor
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Analize
 - 📫 I love running
